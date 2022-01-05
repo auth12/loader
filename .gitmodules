@@ -4,9 +4,6 @@
 [submodule "shared/cpr"]
 	path = shared/cpr
 	url = https://github.com/whoshuu/cpr.git
-[submodule "shared/linux-pe"]
-	path = shared/linux-pe
-	url = https://github.com/authentification/linux-pe.git
 [submodule "client/wolfssl"]
 	path = client/wolfssl
 	url = https://github.com/auth12/wolfssl_windows.git
